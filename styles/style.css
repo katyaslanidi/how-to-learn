@@ -90,3 +90,46 @@
   z-index: 0;
   border: 1px solid red
 }
+
+.description {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.two-columns {
+  width: 80%;
+  justify-content: space-between;
+  border: 1px solid red
+}
+
+.two-columns__brief {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  top: 0;
+  left: 0;
+  width: 175px;
+  border: 1px solid red
+}
+
+.two-columns__main-text {
+  border: 1px solid red
+}
+
+.two-columns__paragraph {
+  width: 80%;
+  min-width: 784px;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  list-style-type: none;
+  top: 0;
+  right: 0;
+  margin: 30px 0;
+}
+
+.two-columns__span-accent {
+  font-weight: bold;
+}
