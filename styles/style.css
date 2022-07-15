@@ -296,7 +296,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0;
   position: relative;
   min-height: 350px;
   background-color: #1f1f1f;
@@ -329,7 +328,7 @@
   font-size: 18px;
   font-weight: normal;
   position: absolute;
-  bottom: 18px
+  bottom: 18px;
 }
 
 .footer__column-heading {
