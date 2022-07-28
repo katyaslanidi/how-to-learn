@@ -10,4 +10,4 @@
 * khan
 * resources
 
-Также добавлена анимация header__square-pic_rotation
+Также добавлена анимация header__square-pic и kaufman__triangle
